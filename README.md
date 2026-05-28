@@ -19,3 +19,29 @@ A proposta mostra como o **agronegócio**, a **tecnologia**, a **indústria**, a
 Por meio dessas imagens e texto complementares o  site busca aproximar o usuário da realidade do campo e destacar a importância de produzir com responsabilidade ambiental, pensando no nosso futuro e das próximas gerações.
 
 ---
+
+## 📸 Prompts Genéricos de IA Utilizados
+
+### 🌞 Imagem Placas solares — Galpão de produção de leite
+
+```text
+Crie uma imagem onde expoẽ placas solares montadas em um galpão de modelo antigo mas bem cuidado e bonito de  produção de leite em uma fazenda.
+```
+
+### 🌱 Imagem Campo — Cultivo da cevada
+
+```text
+Crie uma imagem de uma lavoura de cevada em fase de crescimento, mostrando o cultivo no campo, o cuidado com o solo e a importância da agricultura sustentável. A cena deve ter cores naturais, aparência limpa, clima positivo e representar o início da cadeia produtiva do malte.
+```
+
+### 🏭 Imagem Malte — Transformação e beneficiamento
+
+```text
+Crie uma imagem representando o processo de transformação da cevada em malte, com elementos que remetam à indústria, tecnologia, beneficiamento de grãos e inovação. A imagem deve mostrar a conexão entre o campo e a indústria, com visual moderno, educativo e relacionado à sustentabilidade.
+```
+
+### 🏙️ Imagem Cidade — Campo e cidade conectados
+
+```text
+Crie uma imagem que represente a conexão entre o campo e a cidade por meio da cadeia produtiva do malte. A cena deve mostrar elementos urbanos integrados à produção agrícola, simbolizando como o agro movimenta a economia, abastece a sociedade e conecta diferentes espaços.
+```
