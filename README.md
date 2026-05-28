@@ -31,7 +31,7 @@ Crie uma imagem onde expoẽ placas solares montadas em um galpão de modelo ant
 ### 🌱 Imagem Campo — Cultivo da cevada
 
 ```text
-Crie uma imagem de uma lavoura de cevada em fase de crescimento, mostrando o cultivo no campo, o cuidado com o solo e a importância da agricultura sustentável. A cena deve ter cores naturais, aparência limpa, clima positivo e representar o início da cadeia produtiva do malte.
+crie imagens vacas leiteiras descansando sob a sombra de painéis solares suspensos no pasto, protegendo do sol, com pasto verdes bonitos, vacas bem saúdaveis, coucho com água limpa á vontade para elas.
 ```
 
 ### 🏭 Imagem Malte — Transformação e beneficiamento
