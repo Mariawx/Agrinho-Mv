@@ -28,7 +28,7 @@ Por meio dessas imagens e texto complementares o  site busca aproximar o usuári
 Crie uma imagem onde expoẽ placas solares montadas em um galpão de modelo antigo mas bem cuidado e bonito de  produção de leite em uma fazenda.
 ```
 
-### 🌱 Imagem Campo — Cultivo da cevada
+### ⛅ Imagem vacas descansando embaixo de placas solares
 
 ```text
 crie imagens vacas leiteiras descansando sob a sombra de painéis solares suspensos no pasto, protegendo do sol, com pasto verdes bonitos, vacas bem saúdaveis, coucho com água limpa á vontade para elas.
