@@ -1,0 +1,23 @@
+@media screen and (min-width: 800px) {
+    
+    h1 {
+        font-size: 4.5rem; /* Ajustado de 500% para um tamanho grande, mas mais moderno e harmônico */
+        color: var(--texto-escuro); /* Texto escuro para garantir uma leitura perfeita */
+        background-color: var(--azul-turquesa); /* O turquesa brilha aqui, destacando o topo com a cor da energia limpa */
+        padding: 15px 30px;
+        border-radius: 8px;
+        text-align: center;
+        box-shadow: 0 4px 15px rgba(0, 245, 212, 0.2); /* Um leve brilho turquesa */
+    }
+
+    /* Dica extra: Ajustando o espaçamento das seções para telas grandes */
+    .cabecalho, 
+    .agro, 
+    .contato {
+        padding: 40px 0; /* Dá mais "respiro" para o site em monitores maiores */
+    }
+
+    .agro-div-conteudo {
+        width: 45%; /* Aproveita melhor o espaço horizontal da tela */
+    }
+}
