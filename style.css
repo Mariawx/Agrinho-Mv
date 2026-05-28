@@ -139,3 +139,17 @@ body {
     color: var(--cinza-secundario);
     font-size: 14px;
 }
+
+section {
+  scroll-margin-top: 104px;
+}
+
+/* CABEÇALHO E NAVEGAÇÃO */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  backdrop-filter: blur(14px);
+  background: var(--color-header);
+  border-bottom: 1px solid var(--color-header-line);
+}
