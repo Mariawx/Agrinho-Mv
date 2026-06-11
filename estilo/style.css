@@ -2,10 +2,10 @@
 
 :root {
     /* Sua nova paleta de cores */
-    --rosa-claro: #FFD1DC;
-    --azul-bebe: #d83ed0;
-    --azul-turquesa: #f3ade6;
-    --lilas: #E0B0FF;
+    --creme: #FFD1DC;
+    --violeta: #ef99eb;
+    --roxo-claro: #fc6ae1;
+    --lilas: #ca97ec;
     
     /* Cores de suporte para contraste e base */
     --texto-escuro: #2A2C41;
