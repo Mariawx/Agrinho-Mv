@@ -37,7 +37,7 @@ crie imagens vacas leiteiras descansando sob a sombra de painéis solares suspen
 ###  ⛈️💡Imagem Vilarejo em tempestade — Transformação e beneficiamento
 
 ```text
-Crie uma imagem representando o processo de transformação da cevada em malte, com elementos que remetam à indústria, tecnologia, beneficiamento de grãos e inovação. A imagem deve mostrar a conexão entre o campo e a indústria, com visual moderno, educativo e relacionado à sustentabilidade.
+crie uma imagem com uma tempestade em um vilarejo com casas sem luz e somente o celeiro com placas solares com luzes acesas
 ```
 
 ### 🏙️ Imagem Cidade — Campo e cidade conectados
