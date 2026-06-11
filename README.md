@@ -39,9 +39,3 @@ crie imagens vacas leiteiras descansando sob a sombra de painéis solares suspen
 ```text
 crie uma imagem com uma tempestade em um vilarejo com casas sem luz e somente o celeiro com placas solares com luzes acesas
 ```
-
-### 🏙️ Imagem Cidade — Campo e cidade conectados
-
-```text
-Crie uma imagem que represente a conexão entre o campo e a cidade por meio da cadeia produtiva do malte. A cena deve mostrar elementos urbanos integrados à produção agrícola, simbolizando como o agro movimenta a economia, abastece a sociedade e conecta diferentes espaços.
-```
