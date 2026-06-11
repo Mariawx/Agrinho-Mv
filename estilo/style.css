@@ -27,7 +27,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 20px 0;
-    border-bottom: 3px solid var(--azul-turquesa);
+    border-bottom: 3px solid var(--roxo-claro);
 }
 
 .cabecalho-imagem {
@@ -47,8 +47,8 @@
 }
 
 .agro {
-    /* Gradiente do Azul Turquesa (energia/placas solares) ao Azul Bebê (pureza/leite) */
-    background-image: linear-gradient(135deg, var(--azul-turquesa), var(--azul-bebe));
+    /* Gradiente do roxo-claro (energia/placas solares) violeta (pureza/leite) */
+    background-image: linear-gradient(135deg, var(--roxo-claro), var(--violeta));
     color: var(--texto-escuro);
     display: flex;
     justify-content: center;
@@ -80,7 +80,7 @@
 .rodape {
     /* Rodapé em tom escuro para fechar o layout com boa leitura */
     background-color: var(--texto-escuro);
-    color: var(--branco);
+    color: var(--cinza);
     text-align: center;
     padding: 15px 0;
 }
@@ -112,7 +112,7 @@
 
 .opcoes-acessibilidade button {
     margin-bottom: 5px;
-    background-color: var(--azul-turquesa);
+    background-color: var(--roxo-claro);
     color: var(--texto-escuro);
     border: none;
     padding: 8px;
@@ -129,7 +129,7 @@
 
 .alto-contraste {
     background-color: var(--preto);
-    color: var(--branco);
+    color: var(--cinza);
 }
 
 .alto-contraste .cabecalho,
@@ -138,18 +138,18 @@
 .alto-contraste .contato {
     background-color: var(--preto);
     background-image: none;
-    color: var(--branco);
-    border-color: var(--branco);
+    color: var(--cinza);
+    border-color: var(--cinza);
 }
 
 .alto-contraste .cabecalho-lista-item,
 .alto-contraste .agro-titulo {
-    color: var(--branco);
+    color: var(--cinza);
 }
 
 .alto-contraste .botao-inicio,
 .alto-contraste .btn-primary,
 .alto-contraste .opcoes-acessibilidade button {
-    background-color: var(--azul-turquesa);
+    background-color: var(--lilas);
     color: var(--preto);
 }
