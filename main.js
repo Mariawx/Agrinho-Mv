@@ -79,5 +79,13 @@ document.addEventListener('DOMContentLoaded', () => {
         // Evita bugs de precisão decimal do JavaScript
         const tamanhoFormatado = tamanho.toFixed(1);
         
-        // Abordagem moderna: usa variável CSS para refletir a tecnologia do site
-        document.documentElement.style.setProperty('--t
+       // Abordagem moderna: usa variável CSS para refletir a tecnologia do site
+        document.documentElement.style.setProperty('--tamanho-fonte-base', `${tamanhoFormatado}rem`);
+        
+        // Fallback (garantia) direto na tag body
+        document.body.style.fontSize = `${tamanhoFormatado}rem`;
+        
+        // Salva a configuração para a próxima visita do produtor
+        localStorage.setItem('eco-leite-fonte', tamanhoFormatado);
+    }
+});
