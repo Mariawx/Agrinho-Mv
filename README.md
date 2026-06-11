@@ -34,7 +34,7 @@ Crie uma imagem onde expoẽ placas solares montadas em um galpão de modelo ant
 crie imagens vacas leiteiras descansando sob a sombra de painéis solares suspensos no pasto, protegendo do sol, com pasto verdes bonitos, vacas bem saúdaveis, coucho com água limpa á vontade para elas.
 ```
 
-### 🏭 Imagem Malte — Transformação e beneficiamento
+###  ⛈️💡Imagem Vilarejo em tempestade — Transformação e beneficiamento
 
 ```text
 Crie uma imagem representando o processo de transformação da cevada em malte, com elementos que remetam à indústria, tecnologia, beneficiamento de grãos e inovação. A imagem deve mostrar a conexão entre o campo e a indústria, com visual moderno, educativo e relacionado à sustentabilidade.
